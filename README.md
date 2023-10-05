@@ -15,7 +15,7 @@
 
 --- 
 
-I'm **AlejandroGorgues/AlejandroGorgues**, and I'm a Data Scientist located in Spain.
+I'm **Alejandro Gorgues**, and I'm a Data Scientist located in Spain.
 
 - 🔭 I’m currently working as a predoctoral investigator in Data Science applied to Aerodynamics 
 - 🌱 I’m currently learning more about the Big Data environment and it application in Data Science.
