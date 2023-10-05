@@ -47,8 +47,8 @@ I'm **AlejandroGorgues/AlejandroGorgues**, and I'm a Data Scientist located in S
 ---
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroGorgues&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGorgues&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroGorgues&show_icons=true&theme=panda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGorgues&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
