@@ -20,10 +20,10 @@
 
 --- 
 
-I'm **Alejandro Gorgues**, and I'm a Data Scientist located in Spain.
+I'm **Alejandro Gorgues**
 
-- 🔭 I’m currently working as a predoctoral investigator in Data Science applied to Aerodynamics 
-- 🌱 I’m currently learning more about the Big Data environment and it application in Data Science.
+- 🔭 Currently working as a predoctoral investigator in Data Science applied to Aerodynamics 
+- 🌱 Currently learning all about Big Data and Data Science.
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
