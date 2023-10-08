@@ -22,11 +22,18 @@
 
 I'm **Alejandro Gorgues**
 
-- 🔭 Currently working as a predoctoral investigator in Data Science applied to Aerodynamics 
-- 🌱 Currently learning all about Big Data and Data Science.
+- 🔭 Currently working as a predoctoral investigator in Data Science applied to Aerodynamics where I put all my knowledge into Machine Learning models.
+- 🌱 Currently learning a lot
+     - How to make a blog using Zola site generator
+     - Relearning scala 
+     - Relearning Data Engineering by doing DataEngineering coures on Coursera
+     - Working my knowledge about Data Science through Kaggle
+     - Being more active in GitHub (not only by uploading projects, but also trying to be more active in the community)
+     - Much more things that my head cannot be able to udnerstand right now (I will post more)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
+These are the most used frameworks, programming languages and libraries, hope to update the list soon!! 
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -50,6 +57,6 @@ I'm **Alejandro Gorgues**
 ---
 
 ### :writing_hand: Blog Posts :
-  Future posts will be included
+  Future posts will be included as my blog is currently building (Programmer's dream)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
