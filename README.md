@@ -22,14 +22,12 @@
 
 I'm **Alejandro Gorgues**
 
-- 🔭 Currently working as a predoctoral investigator in Data Science applied to Aerodynamics where I put all my knowledge into Machine Learning models.
-- 🌱 Currently learning a lot
-     - How to make a blog using Zola site generator
-     - Relearning scala 
-     - Relearning Data Engineering by doing DataEngineering coures on Coursera
-     - Working my knowledge about Data Science through Kaggle
+- 🔭 Currently working as a Data Scientist at Vexiza where I put all my knowledge not also in the Machine Learning, but also in the Big Data field.
+- 🌱 Currently learning a lot on
+     - How to make a blog using Zola
+     - Working my knowledge about Data Science
      - Being more active in GitHub (not only by uploading projects, but also trying to be more active in the community)
-     - Much more things that my head cannot be able to udnerstand right now (I will post more)
+     - Much more things that I will be posting
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
