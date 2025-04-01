@@ -22,10 +22,10 @@
 
 I'm **Alejandro Gorgues**
 
-- 🔭 Currently working as Data Scientist / Software developer at Vexiza.
+- 🔭 Currently working as Data Scientist / Software engineer at Vexiza.
 - 🌱 Currently learning:
      - How to make a blog with Astro
-     - Improving knowledge in Data Science, Geospatial and Software Development and Software Architecture fields 
+     - Improving knowledge in Data Science, Geospatial and Software engineer fields 
      - Building projects
      - Much more things that I will be posting
 
