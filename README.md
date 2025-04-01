@@ -22,11 +22,11 @@
 
 I'm **Alejandro Gorgues**
 
-- 🔭 Currently working as a Data Scientist at Vexiza where I put all my knowledge not also in the Machine Learning, but also in the Big Data field.
-- 🌱 Currently learning a lot on
-     - How to make a blog using Zola
-     - Working my knowledge about Data Science
-     - Being more active in GitHub (not only by uploading projects, but also trying to be more active in the community)
+- 🔭 Currently working as a Data Scientist at Vexiza where I put all my knowledge not also in the Machine Learning, Big Data and Software Developing
+- 🌱 Currently learning:
+     - How to make a blog with Astro
+     - Improving knowledge in Data Science, Geospatial and Software Development fields 
+     - Building projects
      - Much more things that I will be posting
 
 ---
@@ -41,8 +41,11 @@ These are the most used frameworks, programming languages and libraries, hope to
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg" title="Neo4j" alt="Neo4j" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
@@ -55,6 +58,6 @@ These are the most used frameworks, programming languages and libraries, hope to
 ---
 
 ### :writing_hand: Blog Posts :
-  Future posts will be included as my blog is currently building (Programmer's dream)
+  Future posts will be included as my blog is currently building
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
