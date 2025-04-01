@@ -15,7 +15,7 @@
 
 
 <h1>
-  Hi there friend!! 👋
+  Hi there!! 👋
 </h1>
 
 --- 
